@@ -1,0 +1,328 @@
+source,target,tgt_lng
+Strength,力量,zh-CN
+Dexterity,敏捷,zh-CN
+Constitution,体质,zh-CN
+Intelligence,智力,zh-CN
+Wisdom,感知,zh-CN
+Charisma,魅力,zh-CN
+Barbarian,野蛮人,zh-CN
+Bard,吟游诗人,zh-CN
+Cleric,牧师,zh-CN
+Druid,德鲁伊,zh-CN
+Fighter,战士,zh-CN
+Monk,武僧,zh-CN
+Paladin,圣武士,zh-CN
+Ranger,游侠,zh-CN
+Rogue,游荡者,zh-CN
+Sorcerer,术士,zh-CN
+Warlock,邪术师,zh-CN
+Wizard,法师,zh-CN
+Elf,精灵,zh-CN
+Tiefling,提夫林,zh-CN
+Drow,卓尔,zh-CN
+Human,人类,zh-CN
+Githyanki,吉斯洋基人,zh-CN
+Dwarf,矮人,zh-CN
+Half-Elf,半精灵,zh-CN
+Halfling,半身人,zh-CN
+Gnome,侏儒,zh-CN
+Dragonborn,龙裔,zh-CN
+Half-Orc,半兽人,zh-CN
+Athletics,运动,zh-CN
+Acrobatics,体操,zh-CN
+Sleight of Hand,巧手,zh-CN
+Stealth,隐匿,zh-CN
+Arcana,奥秘,zh-CN
+History,历史,zh-CN
+Investigation,调查,zh-CN
+Nature,自然,zh-CN
+Religion,宗教,zh-CN
+Animal Handling,驯兽,zh-CN
+Insight,洞察,zh-CN
+Medicine,医药,zh-CN
+Perception,察觉,zh-CN
+Survival,生存,zh-CN
+Deception,欺瞒,zh-CN
+Intimidation,威吓,zh-CN
+Performance,表演,zh-CN
+Persuasion,游说,zh-CN
+Spell Slot,法术位,zh-CN
+Saving Throw,豁免检定,zh-CN
+Ability Check,属性检定,zh-CN
+Difficulty Class,难度等级,zh-CN
+Attack Roll,攻击掷骰,zh-CN
+Armor Class,护甲等级,zh-CN
+Proficiency Bonus,熟练项加值,zh-CN
+Advantage,优势,zh-CN
+Disadvantage,劣势,zh-CN
+Long Rest,长休,zh-CN
+Short Rest,短休,zh-CN
+Hit Points,生命值,zh-CN
+Downed,倒地,zh-CN
+Opportunity Attack,借机攻击,zh-CN
+Reaction,反应,zh-CN
+Action,动作,zh-CN
+Bonus Action,附赠动作,zh-CN
+Cantrip,戏法,zh-CN
+Concentration,专注,zh-CN
+Charmed,魅惑,zh-CN
+Frightened,恐惧,zh-CN
+Poisoned,中毒,zh-CN
+Prone,仆倒,zh-CN
+Stunned,震慑,zh-CN
+Restrained,束缚,zh-CN
+Incapacitated,失能,zh-CN
+Paralyzed,麻痹,zh-CN
+Blindness,致盲,zh-CN
+The Dark Urge,邪念,zh-CN
+Mind Flayer,夺心魔,zh-CN
+Tadpole,幼体,zh-CN
+Absolute,至上真神,zh-CN
+True Soul,真魂者,zh-CN
+Camp,营地,zh-CN
+Guardian,守护者,zh-CN
+Artifact,遗物,zh-CN
+Acid Splash,酸液爆裂,zh-CN
+Blade Ward,剑刃防护,zh-CN
+Bone Chill,白骨之寒,zh-CN
+Dancing Lights,舞光术,zh-CN
+Eldritch Blast,魔能爆,zh-CN
+Fire Bolt,火焰箭,zh-CN
+Friends,交友术,zh-CN
+Guidance,神导术,zh-CN
+Light,光亮术,zh-CN
+Mage Hand,法师之手,zh-CN
+Minor Illusion,次级幻影,zh-CN
+Poison Spray,毒液喷射,zh-CN
+Produce Flame,产生火焰,zh-CN
+Ray of Frost,霜冻射线,zh-CN
+Resistance,抗性术,zh-CN
+Sacred Flame,圣火术,zh-CN
+Shillelagh,橡棍术,zh-CN
+Shocking Grasp,电爪,zh-CN
+Thaumaturgy,奇术,zh-CN
+Thorn Whip,荆棘之鞭,zh-CN
+True Strike,真打术,zh-CN
+Vicious Mockery,恶毒嘲笑,zh-CN
+Animal Friendship,动物交友术,zh-CN
+Armor of Agathys,阿加斯之铠,zh-CN
+Arms of Hadar,哈达之臂,zh-CN
+Bane,灾祸术,zh-CN
+Bless,祝福术,zh-CN
+Burning Hands,燃烧之手,zh-CN
+Charm Person,魅惑人类,zh-CN
+Chromatic Orb,炫彩球,zh-CN
+Color Spray,七彩喷射,zh-CN
+Command,命令术,zh-CN
+Compelled Duel,强制决斗,zh-CN
+Create Water,造水术,zh-CN
+Destroy Water,枯水术,zh-CN
+Cure Wounds,治疗伤口,zh-CN
+Disguise Self,自我伪装,zh-CN
+Dissonant Whispers,不和谐低语,zh-CN
+Divine Favor,神恩,zh-CN
+Ensnaring Strike,诱捕打击,zh-CN
+Entangle,纠缠术,zh-CN
+Expeditious Retreat,疾行术,zh-CN
+Faerie Fire,妖火术,zh-CN
+False Life,虚假生命,zh-CN
+Feather Fall,羽落术,zh-CN
+Find Familiar,寻找魔宠,zh-CN
+Fog Cloud,迷雾术,zh-CN
+Goodberry,神莓术,zh-CN
+Grease,油脂术,zh-CN
+Guiding Bolt,指引之箭,zh-CN
+Hail of Thorns,荆棘之雨,zh-CN
+Healing Word,治愈真言,zh-CN
+Hellish Rebuke,地狱惩击,zh-CN
+Heroism,英雄气概,zh-CN
+Ice Knife,冰刃术,zh-CN
+Inflict Wounds,致伤术,zh-CN
+Longstrider,大步奔行,zh-CN
+Mage Armor,法师护甲,zh-CN
+Magic Missile,魔法飞弹,zh-CN
+Protection from Evil and Good,防护善恶,zh-CN
+Ray of Sickness,致病射线,zh-CN
+Sanctuary,圣域术,zh-CN
+Searing Smite,炽烈惩击,zh-CN
+Shield,护盾术,zh-CN
+Shield of Faith,信仰之盾,zh-CN
+Sleep,睡眠术,zh-CN
+Speak with Animals,动物交谈,zh-CN
+Tasha's Hideous Laughter,塔莎狂笑术,zh-CN
+Thunderous Smite,雷鸣惩击,zh-CN
+Thunderwave,雷鸣波,zh-CN
+Witch Bolt,巫术箭,zh-CN
+Wrathful Smite,愤怒惩击,zh-CN
+Aid,援助术,zh-CN
+Barkskin,树皮术,zh-CN
+Blindness (spell),致盲术,zh-CN
+Blur,模糊术,zh-CN
+Cloud of Daggers,匕首云,zh-CN
+Crown of Madness,狂乱之冠,zh-CN
+Darkness,黑暗术,zh-CN
+Darkvision,黑暗视觉,zh-CN
+Detect Thoughts,侦测思想,zh-CN
+Enhance Ability,增强属性,zh-CN
+Enlarge/Reduce,变大/缩小,zh-CN
+Enthrall,迷魂术,zh-CN
+Flaming Sphere,烈焰球,zh-CN
+Gust of Wind,起风术,zh-CN
+Heat Metal,炽热金属,zh-CN
+Hold Person,定身人类,zh-CN
+Invisibility,隐形术,zh-CN
+Lesser Restoration,次级恢复术,zh-CN
+Magic Weapon,魔法武器,zh-CN
+Mirror Image,镜像术,zh-CN
+Misty Step,迷踪步,zh-CN
+Moonbeam,月光术,zh-CN
+Phantasmal Force,虚影之力,zh-CN
+Prayer of Healing,治愈祈祷,zh-CN
+Protection from Poison,毒素防护,zh-CN
+Ray of Enfeeblement,衰弱射线,zh-CN
+Scorching Ray,灼热射线,zh-CN
+Shatter,粉碎术,zh-CN
+Silence,沉默术,zh-CN
+Spiritual Weapon,灵体武器,zh-CN
+Web,蛛网术,zh-CN
+Animate Dead,操纵死尸,zh-CN
+Beacon of Hope,希望灯塔,zh-CN
+Bestow Curse,施放诅咒,zh-CN
+Call Lightning,召雷术,zh-CN
+Counterspell,法术反制,zh-CN
+Daylight,昼明术,zh-CN
+Fear,恐惧术,zh-CN
+Feign Death,假死术,zh-CN
+Fireball,火球术,zh-CN
+Fly,飞行术,zh-CN
+Gaseous Form,气态形体,zh-CN
+Glyph of Warding,守护之印,zh-CN
+Haste,加速术,zh-CN
+Hunger of Hadar,哈达之饥,zh-CN
+Hypnotic Pattern,催眠图纹,zh-CN
+Lightning Bolt,闪电束,zh-CN
+Mass Healing Word,群体治愈真言,zh-CN
+Plant Growth,植物滋长,zh-CN
+Protection from Energy,能量防护,zh-CN
+Revivify,回生术,zh-CN
+Sleet Storm,雨雪暴,zh-CN
+Slow,减速术,zh-CN
+Speak with Dead,死者交谈,zh-CN
+Spirit Guardians,灵体守卫,zh-CN
+Stinking Cloud,臭云术,zh-CN
+Vampiric Touch,吸血鬼之触,zh-CN
+Banishment,放逐术,zh-CN
+Blight,枯萎术,zh-CN
+Confusion,混乱术,zh-CN
+Conjure Minor Elementals,召唤次级元素,zh-CN
+Conjure Woodland Beings,召唤林地生物,zh-CN
+Death Ward,死亡防护,zh-CN
+Dimension Door,次元门,zh-CN
+Dominate Beast,支配野兽,zh-CN
+Evard's Black Tentacles,艾伐黑触手,zh-CN
+Fire Shield,火焰护盾,zh-CN
+Freedom of Movement,行动自由,zh-CN
+Greater Invisibility,高级隐形术,zh-CN
+Guardian of Faith,信仰守卫,zh-CN
+Ice Storm,冰风暴,zh-CN
+Otiluke's Resilient Sphere,欧提路克弹性球,zh-CN
+Phantasmal Killer,虚影杀手,zh-CN
+Polymorph,变形术,zh-CN
+Stoneskin,石肤术,zh-CN
+Wall of Fire,火墙术,zh-CN
+Cloudkill,死云术,zh-CN
+Cone of Cold,寒冰锥,zh-CN
+Conjure Elemental,召唤元素,zh-CN
+Contagion,传染术,zh-CN
+Destructive Wave,毁灭波,zh-CN
+Dominate Person,支配人类,zh-CN
+Flame Strike,烈焰击,zh-CN
+Greater Restoration,高级恢复术,zh-CN
+Hold Monster,定身怪物,zh-CN
+Insect Plague,虫群瘴气,zh-CN
+Mass Cure Wounds,群体治疗术,zh-CN
+Planar Binding,异界誓缚,zh-CN
+Seeming,似是而非,zh-CN
+Telekinesis,意念移物,zh-CN
+Wall of Stone,石墙术,zh-CN
+Arcane Gate,奥术之门,zh-CN
+Blade Barrier,剑刃障壁,zh-CN
+Chain Lightning,连环闪电,zh-CN
+Circle of Death,死亡之圈,zh-CN
+Create Undead,创造不死生物,zh-CN
+Disintegrate,解离术,zh-CN
+Eyebite,摄魂之眼,zh-CN
+Flesh to Stone,石化术,zh-CN
+Globe of Invulnerability,无敌球,zh-CN
+Harm,伤害术,zh-CN
+Heal,痊愈术,zh-CN
+Heroes' Feast,英雄宴,zh-CN
+Otiluke's Freezing Sphere,欧提路克冰冻球,zh-CN
+Otto's Irresistible Dance,奥图迷离舞,zh-CN
+Planar Ally,异界盟友,zh-CN
+Sunbeam,阳炎射线,zh-CN
+Wall of Ice,冰墙术,zh-CN
+Wall of Thorns,荆棘之墙,zh-CN
+Wind Walk,乘风而行,zh-CN
+The Nautiloid,螺壳舰,zh-CN
+Ravaged Beach,疮痍海滩,zh-CN
+Emerald Grove,翠绿林地,zh-CN
+Blighted Village,染疫村落,zh-CN
+Goblin Camp,地精营地,zh-CN
+Shattered Sanctum,破碎圣所,zh-CN
+Sunlit Wetlands,阳光湿地,zh-CN
+Putrid Bog,腐烂泥潭,zh-CN
+Riverside Teahouse,河边茶室,zh-CN
+Waukeen's Rest,沃金的休眠地,zh-CN
+The Risen Road,晋升之路,zh-CN
+Mountain Pass,山隘,zh-CN
+Rosymorn Monastery,瑰晨修道院,zh-CN
+Crèche Y'llek,伊雷珂养育间,zh-CN
+Underdark,幽暗地域,zh-CN
+Selûnite Outpost,塞伦涅哨所,zh-CN
+Myconid Colony,蕈人栖息地,zh-CN
+Dread Hollow,恐怖中空,zh-CN
+Arcane Tower,奥法高塔,zh-CN
+Grymforge,复仇之炉,zh-CN
+Adamantine Forge,精金熔炉,zh-CN
+Shadow-Cursed Lands,幽影诅咒之地,zh-CN
+Last Light Inn,终焉光芒旅店,zh-CN
+Reithwin Town,雷斯文小镇,zh-CN
+Moonrise Towers,月出之塔,zh-CN
+Grand Mausoleum,大陵寝,zh-CN
+Gauntlet of Shar,莎尔的试炼场,zh-CN
+Shadowfell,堕影冥界,zh-CN
+Rivington,利文顿,zh-CN
+Circus of the Last Days,末日马戏团,zh-CN
+Wyrm's Crossing,飞龙关,zh-CN
+Wyrm's Rock Fortress,飞龙岩要塞,zh-CN
+Lower City,下城区,zh-CN
+Elfsong Tavern,精灵之歌酒馆,zh-CN
+Sorcerous Sundries,巫术杂货铺,zh-CN
+The Counting House,计点屋,zh-CN
+House of Hope,希望之邸,zh-CN
+House of Grief,悲伤之邸,zh-CN
+Cazador's Palace,卡扎多尔的宫殿,zh-CN
+Bhaal Temple,巴尔神殿,zh-CN
+Upper City,上城区,zh-CN
+Shadowheart,影心,zh-CN
+Astarion,阿斯代伦,zh-CN
+Gale,盖尔,zh-CN
+Lae'zel,莱埃泽尔,zh-CN
+Wyll,威尔,zh-CN
+Karlach,卡菈克,zh-CN
+Halsin,哈尔辛,zh-CN
+Minthara,明萨拉,zh-CN
+Jaheira,贾希拉,zh-CN
+Minsc,明斯克,zh-CN
+Withers,守墓人,zh-CN
+The Emperor,君主,zh-CN
+Raphael,拉斐尔,zh-CN
+Mizora,米佐拉,zh-CN
+Dame Aylin,艾琳女士,zh-CN
+Isobel,伊索贝尔,zh-CN
+Volo,沃罗,zh-CN
+Scratch,挠挠,zh-CN
+Ketheric Thorm,凯瑟里克·索姆,zh-CN
+Enver Gortash,恩维尔·戈塔什,zh-CN
+Orin the Red,奥林,zh-CN

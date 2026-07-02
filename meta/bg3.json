@@ -1,0 +1,28 @@
+{
+  "id": "bg3",
+  "name": "Baldur's Gate 3",
+  "description": "Terminology for Baldur's Gate 3, including attributes, classes, races, spells, locations, and characters.",
+  "author": "Au3C2",
+  "glossary": "bg3",
+  "langs": [
+    "zh-CN",
+    "zh-TW"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "博德之门 3",
+      "description": "博德之门 3 术语库，涵盖属性、职业、种族、法术、地点和角色名称。"
+    },
+    "zh-TW": {
+      "name": "博德之門 3",
+      "description": "博德之門 3 術語庫，涵蓋屬性、職業、種族、法術、地點和角色名稱。"
+    },
+    "en": {
+      "name": "Baldur's Gate 3",
+      "description": "Terminology for Baldur's Gate 3, including attributes, classes, races, spells, locations, and characters."
+    }
+  },
+  "matches": [
+    "https://bg3.wiki/*"
+  ]
+}
