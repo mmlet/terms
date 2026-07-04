@@ -1,0 +1,328 @@
+source,target,tgt_lng
+Strength,力量,zh-TW
+Dexterity,敏捷,zh-TW
+Constitution,體質,zh-TW
+Intelligence,智力,zh-TW
+Wisdom,感知,zh-TW
+Charisma,魅力,zh-TW
+Barbarian,野蠻人,zh-TW
+Bard,吟遊詩人,zh-TW
+Cleric,牧師,zh-TW
+Druid,德魯伊,zh-TW
+Fighter,戰士,zh-TW
+Monk,武僧,zh-TW
+Paladin,聖武士,zh-TW
+Ranger,遊俠,zh-TW
+Rogue,遊蕩者,zh-TW
+Sorcerer,術士,zh-TW
+Warlock,邪術師,zh-TW
+Wizard,法師,zh-TW
+Elf,精靈,zh-TW
+Tiefling,提夫林,zh-TW
+Drow,卓爾,zh-TW
+Human,人類,zh-TW
+Githyanki,吉斯洋基人,zh-TW
+Dwarf,矮人,zh-TW
+Half-Elf,半精靈,zh-TW
+Halfling,半身人,zh-TW
+Gnome,侏儒,zh-TW
+Dragonborn,龍裔,zh-TW
+Half-Orc,半獸人,zh-TW
+Athletics,運動,zh-TW
+Acrobatics,體操,zh-TW
+Sleight of Hand,巧手,zh-TW
+Stealth,隱匿,zh-TW
+Arcana,奧秘,zh-TW
+History,歷史,zh-TW
+Investigation,調查,zh-TW
+Nature,自然,zh-TW
+Religion,宗教,zh-TW
+Animal Handling,馴獸,zh-TW
+Insight,洞察,zh-TW
+Medicine,醫藥,zh-TW
+Perception,察覺,zh-TW
+Survival,生存,zh-TW
+Deception,欺瞞,zh-TW
+Intimidation,威嚇,zh-TW
+Performance,表演,zh-TW
+Persuasion,遊說,zh-TW
+Spell Slot,法術位,zh-TW
+Saving Throw,豁免檢定,zh-TW
+Ability Check,屬性檢定,zh-TW
+Difficulty Class,難度等級,zh-TW
+Attack Roll,攻擊擲骰,zh-TW
+Armor Class,護甲等級,zh-TW
+Proficiency Bonus,熟練項加值,zh-TW
+Advantage,優勢,zh-TW
+Disadvantage,劣勢,zh-TW
+Long Rest,長休,zh-TW
+Short Rest,短休,zh-TW
+Hit Points,生命值,zh-TW
+Downed,倒地,zh-TW
+Opportunity Attack,借機攻擊,zh-TW
+Reaction,反應,zh-TW
+Action,動作,zh-TW
+Bonus Action,附贈動作,zh-TW
+Cantrip,戲法,zh-TW
+Concentration,專注,zh-TW
+Charmed,魅惑,zh-TW
+Frightened,恐懼,zh-TW
+Poisoned,中毒,zh-TW
+Prone,仆倒,zh-TW
+Stunned,震懾,zh-TW
+Restrained,束縛,zh-TW
+Incapacitated,失能,zh-TW
+Paralyzed,麻痹,zh-TW
+Blindness,致盲,zh-TW
+The Dark Urge,邪念,zh-TW
+Mind Flayer,奪心魔,zh-TW
+Tadpole,幼體,zh-TW
+Absolute,至上真神,zh-TW
+True Soul,真魂者,zh-TW
+Camp,營地,zh-TW
+Guardian,守護者,zh-TW
+Artifact,遺物,zh-TW
+Acid Splash,酸液爆裂,zh-TW
+Blade Ward,劍刃防護,zh-TW
+Bone Chill,白骨之寒,zh-TW
+Dancing Lights,舞光術,zh-TW
+Eldritch Blast,魔能爆,zh-TW
+Fire Bolt,火焰箭,zh-TW
+Friends,交友術,zh-TW
+Guidance,神導術,zh-TW
+Light,光亮術,zh-TW
+Mage Hand,法師之手,zh-TW
+Minor Illusion,次級幻影,zh-TW
+Poison Spray,毒液噴射,zh-TW
+Produce Flame,產生火焰,zh-TW
+Ray of Frost,霜凍射線,zh-TW
+Resistance,抗性術,zh-TW
+Sacred Flame,聖火術,zh-TW
+Shillelagh,橡棍術,zh-TW
+Shocking Grasp,電爪,zh-TW
+Thaumaturgy,奇術,zh-TW
+Thorn Whip,荊棘之鞭,zh-TW
+True Strike,真打術,zh-TW
+Vicious Mockery,惡毒嘲笑,zh-TW
+Animal Friendship,動物交友術,zh-TW
+Armor of Agathys,阿加斯之鎧,zh-TW
+Arms of Hadar,哈達之臂,zh-TW
+Bane,災禍術,zh-TW
+Bless,祝福術,zh-TW
+Burning Hands,燃燒之手,zh-TW
+Charm Person,魅惑人類,zh-TW
+Chromatic Orb,炫彩球,zh-TW
+Color Spray,七彩噴射,zh-TW
+Command,命令術,zh-TW
+Compelled Duel,強制決鬥,zh-TW
+Create Water,造水術,zh-TW
+Destroy Water,枯水術,zh-TW
+Cure Wounds,治療傷口,zh-TW
+Disguise Self,自我偽裝,zh-TW
+Dissonant Whispers,不和諧低語,zh-TW
+Divine Favor,神恩,zh-TW
+Ensnaring Strike,誘捕打擊,zh-TW
+Entangle,糾纏術,zh-TW
+Expeditious Retreat,疾行術,zh-TW
+Faerie Fire,妖火術,zh-TW
+False Life,虛假生命,zh-TW
+Feather Fall,羽落術,zh-TW
+Find Familiar,尋找魔寵,zh-TW
+Fog Cloud,迷霧術,zh-TW
+Goodberry,神莓術,zh-TW
+Grease,油脂術,zh-TW
+Guiding Bolt,指引之箭,zh-TW
+Hail of Thorns,荊棘之雨,zh-TW
+Healing Word,治癒真言,zh-TW
+Hellish Rebuke,地獄懲擊,zh-TW
+Heroism,英雄氣概,zh-TW
+Ice Knife,冰刃術,zh-TW
+Inflict Wounds,致傷術,zh-TW
+Longstrider,大步奔行,zh-TW
+Mage Armor,法師護甲,zh-TW
+Magic Missile,魔法飛彈,zh-TW
+Protection from Evil and Good,防護善惡,zh-TW
+Ray of Sickness,致病射線,zh-TW
+Sanctuary,聖域術,zh-TW
+Searing Smite,熾烈懲擊,zh-TW
+Shield,護盾術,zh-TW
+Shield of Faith,信仰之盾,zh-TW
+Sleep,睡眠術,zh-TW
+Speak with Animals,動物交談,zh-TW
+Tasha's Hideous Laughter,塔莎狂笑術,zh-TW
+Thunderous Smite,雷鳴懲擊,zh-TW
+Thunderwave,雷鳴波,zh-TW
+Witch Bolt,巫術箭,zh-TW
+Wrathful Smite,憤怒懲擊,zh-TW
+Aid,援助術,zh-TW
+Barkskin,樹皮術,zh-TW
+Blindness (Spell),致盲術,zh-TW
+Blur,模糊術,zh-TW
+Cloud of Daggers,匕首雲,zh-TW
+Crown of Madness,狂亂之冠,zh-TW
+Darkness,黑暗術,zh-TW
+Darkvision,黑暗視覺,zh-TW
+Detect Thoughts,偵測思想,zh-TW
+Enhance Ability,增強屬性,zh-TW
+Enlarge/Reduce,變大/縮小,zh-TW
+Enthrall,迷魂術,zh-TW
+Flaming Sphere,烈焰球,zh-TW
+Gust of Wind,起風術,zh-TW
+Heat Metal,熾熱金屬,zh-TW
+Hold Person,定身人類,zh-TW
+Invisibility,隱形術,zh-TW
+Lesser Restoration,次級恢復術,zh-TW
+Magic Weapon,魔法武器,zh-TW
+Mirror Image,鏡像術,zh-TW
+Misty Step,迷蹤步,zh-TW
+Moonbeam,月光術,zh-TW
+Phantasmal Force,虛影之力,zh-TW
+Prayer of Healing,治癒祈禱,zh-TW
+Protection from Poison,毒素防護,zh-TW
+Ray of Enfeeblement,衰弱射線,zh-TW
+Scorching Ray,灼熱射線,zh-TW
+Shatter,粉碎術,zh-TW
+Silence,沉默術,zh-TW
+Spiritual Weapon,靈體武器,zh-TW
+Web,蛛網術,zh-TW
+Animate Dead,操縱死屍,zh-TW
+Beacon of Hope,希望燈塔,zh-TW
+Bestow Curse,施放詛咒,zh-TW
+Call Lightning,召雷術,zh-TW
+Counterspell,法術反制,zh-TW
+Daylight,晝明術,zh-TW
+Fear,恐懼術,zh-TW
+Feign Death,假死術,zh-TW
+Fireball,火球術,zh-TW
+Fly,飛行術,zh-TW
+Gaseous Form,氣態形體,zh-TW
+Glyph of Warding,守護之印,zh-TW
+Haste,加速術,zh-TW
+Hunger of Hadar,哈達之飢,zh-TW
+Hypnotic Pattern,催眠圖紋,zh-TW
+Lightning Bolt,閃電束,zh-TW
+Mass Healing Word,群體治癒真言,zh-TW
+Plant Growth,植物滋長,zh-TW
+Protection from Energy,能量防護,zh-TW
+Revivify,回生術,zh-TW
+Sleet Storm,雨雪暴,zh-TW
+Slow,減速術,zh-TW
+Speak with Dead,死者交談,zh-TW
+Spirit Guardians,靈體守衛,zh-TW
+Stinking Cloud,臭雲術,zh-TW
+Vampiric Touch,吸血鬼之觸,zh-TW
+Banishment,放逐術,zh-TW
+Blight,枯萎術,zh-TW
+Confusion,混亂術,zh-TW
+Conjure Minor Elementals,召喚次級元素,zh-TW
+Conjure Woodland Beings,召喚林地生物,zh-TW
+Death Ward,死亡防護,zh-TW
+Dimension Door,次元門,zh-TW
+Dominate Beast,支配野獸,zh-TW
+Evard's Black Tentacles,艾伐黑觸手,zh-TW
+Fire Shield,火焰護盾,zh-TW
+Freedom of Movement,行動自由,zh-TW
+Greater Invisibility,高級隱形術,zh-TW
+Guardian of Faith,信仰守衛,zh-TW
+Ice Storm,冰風暴,zh-TW
+Otiluke's Resilient Sphere,歐提路克彈性球,zh-TW
+Phantasmal Killer,虛影殺手,zh-TW
+Polymorph,變形術,zh-TW
+Stoneskin,石膚術,zh-TW
+Wall of Fire,火牆術,zh-TW
+Cloudkill,死雲術,zh-TW
+Cone of Cold,寒冰錐,zh-TW
+Conjure Elemental,召喚元素,zh-TW
+Contagion,傳染術,zh-TW
+Destructive Wave,毀滅波,zh-TW
+Dominate Person,支配人類,zh-TW
+Flame Strike,烈焰擊,zh-TW
+Greater Restoration,高級恢復術,zh-TW
+Hold Monster,定身怪物,zh-TW
+Insect Plague,蟲群瘴氣,zh-TW
+Mass Cure Wounds,群體治療術,zh-TW
+Planar Binding,異界誓縛,zh-TW
+Seeming,似是而非,zh-TW
+Telekinesis,意念移物,zh-TW
+Wall of Stone,石牆術,zh-TW
+Arcane Gate,奧術之門,zh-TW
+Blade Barrier,劍刃障壁,zh-TW
+Chain Lightning,連環閃電,zh-TW
+Circle of Death,死亡之圈,zh-TW
+Create Undead,創造不死生物,zh-TW
+Disintegrate,解離術,zh-TW
+Eyebite,攝魂之眼,zh-TW
+Flesh to Stone,石化術,zh-TW
+Globe of Invulnerability,無敵球,zh-TW
+Harm,傷害術,zh-TW
+Heal,痊癒術,zh-TW
+Heroes' Feast,英雄宴,zh-TW
+Otiluke's Freezing Sphere,歐提路克冷凍球,zh-TW
+Otto's Irresistible Dance,奧圖迷離舞,zh-TW
+Planar Ally,異界盟友,zh-TW
+Sunbeam,陽炎射線,zh-TW
+Wall of Ice,冰牆術,zh-TW
+Wall of Thorns,荊棘之牆,zh-TW
+Wind Walk,乘風而行,zh-TW
+The Nautiloid,螺殼艦,zh-TW
+Ravaged Beach,瘡痍海灘,zh-TW
+Emerald Grove,翠綠林地,zh-TW
+Blighted Village,染疫村落,zh-TW
+Goblin Camp,地精營地,zh-TW
+Shattered Sanctum,破碎聖所,zh-TW
+Sunlit Wetlands,陽光濕地,zh-TW
+Putrid Bog,腐爛泥潭,zh-TW
+Riverside Teahouse,河邊茶室,zh-TW
+Waukeen's Rest,沃金的休眠地,zh-TW
+The Risen Road,晉升之路,zh-TW
+Mountain Pass,山隘,zh-TW
+Rosymorn Monastery,瑰晨修道院,zh-TW
+Crèche Y'llek,伊雷珂養育間,zh-TW
+Underdark,幽暗地域,zh-TW
+Selûnite Outpost,塞倫涅哨所,zh-TW
+Myconid Colony,蕈人棲息地,zh-TW
+Dread Hollow,恐怖中空,zh-TW
+Arcane Tower,奧法高塔,zh-TW
+Grymforge,復仇之爐,zh-TW
+Adamantine Forge,精金熔爐,zh-TW
+Shadow-Cursed Lands,幽影詛咒之地,zh-TW
+Last Light Inn,終焉光芒旅店,zh-TW
+Reithwin Town,雷斯文小鎮,zh-TW
+Moonrise Towers,月出之塔,zh-TW
+Grand Mausoleum,大陵寢,zh-TW
+Gauntlet of Shar,莎爾的試煉場,zh-TW
+Shadowfell,墮影冥界,zh-TW
+Rivington,利文頓,zh-TW
+Circus of the Last Days,末日馬戲團,zh-TW
+Wyrm's Crossing,飛龍關,zh-TW
+Wyrm's Rock Fortress,飛龍岩要塞,zh-TW
+Lower City,下城區,zh-TW
+Elfsong Tavern,精靈之歌酒館,zh-TW
+Sorcerous Sundries,巫術雜貨鋪,zh-TW
+The Counting House,計點屋,zh-TW
+House of Hope,希望之邸,zh-TW
+House of Grief,悲傷之邸,zh-TW
+Cazador's Palace,卡扎多爾的宮殿,zh-TW
+Bhaal Temple,巴爾神殿,zh-TW
+Upper City,上城區,zh-TW
+Shadowheart,影心,zh-TW
+Astarion,阿斯代倫,zh-TW
+Gale,蓋爾,zh-TW
+Lae'zel,萊埃澤爾,zh-TW
+Wyll,威爾,zh-TW
+Karlach,卡菈克,zh-TW
+Halsin,哈爾辛,zh-TW
+Minthara,明薩拉,zh-TW
+Jaheira,賈希拉,zh-TW
+Minsc,明斯克,zh-TW
+Withers,守墓人,zh-TW
+The Emperor,君主,zh-TW
+Raphael,拉斐爾,zh-TW
+Mizora,米佐拉,zh-TW
+Dame Aylin,艾琳女士,zh-TW
+Isobel,伊索貝爾,zh-TW
+Volo,沃羅,zh-TW
+Scratch,撓撓,zh-TW
+Ketheric Thorm,凱瑟里克·索姆,zh-TW
+Enver Gortash,恩維爾·戈塔什,zh-TW
+Orin the Red,奧林,zh-TW

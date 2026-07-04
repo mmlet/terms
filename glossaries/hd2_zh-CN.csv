@@ -12,6 +12,7 @@ Super Destroyer,超级驱逐舰,zh-CN
 Escalation of Freedom,“自由升级”,zh-CN
 Omens of Tyranny,“暴政预兆”,zh-CN
 Heart of Democracy,“民主之心”,zh-CN
+Into the Unjust,“天上为公”（“正义未至之境”）,zh-CN
 Termind Control System,终结族控制系统,zh-CN
 TCS,终结族控制系统,zh-CN
 Free,解放,zh-CN
@@ -32,7 +33,7 @@ Illuminate,光能者,zh-CN
 The Illuminate,光能者,zh-CN
 The Illuminate Cult,光能者邪教,zh-CN
 Bile Spitter,吐酸食腐虫,zh-CN
-Pouncer,跳虫,zh-CN
+Pouncer,猛扑虫,zh-CN
 Scavenger,食腐虫,zh-CN
 Alpha Warrior,阿尔法武斗虫,zh-CN
 Bile Warrior,吐酸武斗虫,zh-CN
@@ -46,10 +47,11 @@ Charger Behemoth,巨兽级强袭虫,zh-CN
 Spore Charger,孢子强袭虫,zh-CN
 Impaler,穿刺虫,zh-CN
 Bile Spewer,胆汁喷涌虫,zh-CN
-Nursing Spewer,胆汁喷涌虫,zh-CN
+Nursing Spewer,抚育喷涌虫,zh-CN
 Shrieker,尖啸虫,zh-CN
 Stalker,追踪虫,zh-CN
 Bile Titan,吐酸泰坦,zh-CN
+Hive Lord,霸王虫,zh-CN
 Predator Strain,掠食变种,zh-CN
 Predator Hunter,掠食追猎虫,zh-CN
 Predator Stalker,掠食追踪虫,zh-CN
@@ -57,6 +59,10 @@ Spore Burst Strain,孢裂变种,zh-CN
 Spore Burst Scavenger,孢裂食腐虫,zh-CN
 Spore Burst Hunter,孢裂追踪虫,zh-CN
 Spore Burst Warrior,孢裂武斗虫,zh-CN
+Rupture Strain,钻地变种,zh-CN
+Rupture Charger,钻地强袭虫,zh-CN
+Rupture Spewer,钻地喷涌虫,zh-CN
+Rupture Warrior,钻地武斗虫,zh-CN
 Terminid Nest,终结族巢穴,zh-CN
 Bug Hole,虫洞,zh-CN
 Stalker Lair,追踪虫巢穴,zh-CN
@@ -68,6 +74,7 @@ Mutated Eggs,变异虫卵,zh-CN
 Bile Titan Nest,泰坦巢,zh-CN
 Bug Mine,孢子雷,zh-CN
 Mega Nest,超巨巢穴,zh-CN
+Hive World,虫窝世界,zh-CN
 Brawler,奇袭者,zh-CN
 Commissar,机械统帅,zh-CN
 Marauder,劫掠者,zh-CN
@@ -173,7 +180,7 @@ Eliminate Automaton Factory Strider,消灭机器人移动工厂,zh-CN
 Sabotage Air Base,破坏空运能力,zh-CN
 Eradicate Automaton Forces,彻底摧毁机器人部队,zh-CN
 Destroy Command Bunkers,摧毁机器人指挥碉堡,zh-CN
-Neutralize Orbital Defenses,阻止敌方使用轨道加农炮,zh-CN
+Neutralize Orbital Defenses,摧毁地对轨道防御系统,zh-CN
 Evacuate Colonists,疏散拓殖地公民,zh-CN
 Retrieve Recon Craft Intel,取回侦察机情报,zh-CN
 Free Colony,解放殖民地,zh-CN
@@ -188,6 +195,18 @@ Collect Gloom-Infused Oil,采集受“阴霾”影响的原油,zh-CN
 Blitz: Secure Research Site,闪电战：保障研究地点的安全,zh-CN
 Collect Gloom Spore Readings,收集“阴霾”孢子读数,zh-CN
 Chart Terminid Tunnels,绘制终结族地下巢穴网络,zh-CN
+Extract E-711,提取 711 元素,zh-CN
+Conduct Mobile E-711 Extraction,移动式提取 711 元素,zh-CN
+Destroy Spore Lung,摧毁孢肺,zh-CN
+Restart Pumps,重启油泵,zh-CN
+Rapid Acquisition,快速夺取,zh-CN
+Seize Industrial Complex,占领工业联合体,zh-CN
+Annex Untapped Mineral Sites,吞并未开发的矿点,zh-CN
+Confiscate Assets,没收资产,zh-CN
+Blitz: Destroy Bio-Processors,闪电战：摧毁生物处理器,zh-CN
+Commando: Secure Black Box,突击兵：取回黑匣子,zh-CN
+Commando: Acquire Evidence,突击兵：录取罪证,zh-CN
+Commando: Extract Intel,突击兵：取回情报,zh-CN
 Optional Objectives,次要目标,zh-CN
 Tactical Objectives,次要目标,zh-CN
 Side Objectives,次要目标,zh-CN
@@ -200,7 +219,7 @@ High-Yield Explosive,高爆弹,zh-CN
 Mini-Nuke,迷你核弹,zh-CN
 Smoke,烟雾弹,zh-CN
 Static Field,静电场,zh-CN
-Napalm,凝固汽油弹,zh-
+Napalm,凝固汽油弹,zh-CN
 Radar Station,激光雷达站,zh-CN
 SEAF SAM Site,超级地球武装部队地对空导弹基地,zh-CN
 Destroy Rogue Research Station,摧毁叛变科研站,zh-CN
@@ -210,9 +229,15 @@ Intercept Convoy,拦截车队,zh-CN
 Enemy Bio-Processors,敌方生物处理器,zh-CN
 Purge Illuminate,消灭光能者,zh-CN
 Illuminate Encampment,光能者营地,zh-CN
+Mobile Radar,移动雷达,zh-CN
+Recover Scientific Specimen,找回科学样本,zh-CN
+Reinforcement Pods,增援太空舱,zh-CN
+Destroy High-Value Target,摧毁高价值目标,zh-CN
+Compromise Automaton Defenses,破坏机器人的防御网络,zh-CN
 Fabricator,构筑者,zh-CN
+Gallantry Beyond Measure,无上英雄,zh-CN
 Outstanding Patriotism,爱国精英,zh-CN
-Superior Valour,卓越表现,zh-CN
+Superior Valour,非凡英杰,zh-CN
 Honorable Duty,光荣使命,zh-CN
 Unremarkable Performance,平庸表现,zh-CN
 Disappointing Service,服务不佳,zh-CN
@@ -222,7 +247,6 @@ Personal Orders,个人指令,zh-CN
 Medals,战争债券奖章,zh-CN
 Trivial,易如反掌,zh-CN
 Easy,简单,zh-CN
-Medium,普通,zh-CN
 Challenging,充满挑战,zh-CN
 Hard,困难,zh-CN
 Extreme,极端,zh-CN
@@ -231,8 +255,15 @@ Impossible,不可能的任务,zh-CN
 Helldive,绝地俯冲,zh-CN
 Super Helldive,超级绝地俯冲,zh-CN
 Warbond,战争债券,zh-CN
-Premium Warbond,尊享战争债券,zh-CN
 Helldivers Mobilize!,绝地潜兵总动员！,zh-CN
+Legendary Warbond,传奇战争债券,zh-CN
+Obedient Democracy Support Troopers,民主光环驰援部队,zh-CN
+Righteous Revenants,正义复仇者,zh-CN
+Premium Warbond,尊享战争债券,zh-CN
+Siege Breakers,破围先锋,zh-CN
+Redacted Regiment,绝密军团,zh-CN
+Python Commandos,蟒蛇突击兵,zh-CN
+Dust Devils,尘卷风,zh-CN
 Control Group,变量控制,zh-CN
 Force of Law,法律铁碗,zh-CN
 Masters of Ceremony,典礼官,zh-CN
@@ -253,7 +284,6 @@ Patterns,涂装,zh-CN
 Titles,玩家头衔,zh-CN
 Acquisition Center,采购中心,zh-CN
 Light,轻甲,zh-CN
-Medium,中甲,zh-CN
 Heavy,重甲,zh-CN
 Tank I,一级坦克装甲,zh-CN
 Tank II,二级坦克装甲,zh-CN
@@ -390,165 +420,20 @@ LIFT-860 Hover Pack,LIFT-860 悬浮背包,zh-CN
 AX/ARC-3 "Guard Dog" K-9,AX/ARC-3 “护卫犬”K-9,zh-CN
 A/LAS-98 Laser Sentry,A/LAS-98 激光哨戒炮,zh-CN
 LIFT-182 Warp Pack,LIFT-182 传送背包,zh-CN
-Liberator,解放者,zh-CN
-Liberator Penetrator,穿甲解放者,zh-CN
-Liberator Concussive,震荡解放者,zh-CN
-Assault Rifle,突击步枪,zh-CN
-Pacifier,安抚者,zh-CN
-Liberator Carbine,解放者卡宾枪,zh-CN
-Tenderizer,肉锤,zh-CN
-Adjudicator,审判者,zh-CN
-Amendment,修正,zh-CN
-Constitution,宪法,zh-CN
-Deadeye,鹰眼,zh-CN
-Diligence,勤勉,zh-CN
-Diligence Counter Sniper,反狙击勤勉,zh-CN
-Knight,骑士,zh-CN
-SMG,冲锋枪,zh-CN
-Reprimand,训斥,zh-CN
-Defender,防卫者,zh-CN
-Pummeler,暴击斗士,zh-CN
-Punisher,制裁者,zh-CN
-Slugger,重炮手,zh-CN
-Halt,止息,zh-CN
-Cookout,野炊,zh-CN
-Breaker,破裂者,zh-CN
-Breaker Spray&Pray,弥漫与祷告的破裂者,zh-CN
-Breaker Incendiary,高燃破裂者,zh-CN
-Exploding Crossbow,爆燃弩,zh-CN
-Eruptor,爆裂铳,zh-CN
-Punisher Plasma,等离子制裁者,zh-CN
-Accelerator Rifle,加速步枪,zh-CN
-Blitzer,雷霆,zh-CN
-Scythe,长柄镰,zh-CN
-Sickle,镰刀,zh-CN
-Double-Edge Sickle,双刃镰刀,zh-CN
-Scorcher,焦土,zh-CN
-Purifier,净化者,zh-CN
-Variable,变数,zh-CN
-Torcher,火炬手,zh-CN
-Dominator,主宰,zh-CN
-Warrant,法令,zh-CN
-Peacemaker,和平制造者,zh-CN
-Redeemer,救世主,zh-CN
-Verdict,裁决,zh-CN
-Senator,参议员,zh-CN
-Stun Lance,眩晕长矛,zh-CN
-Saber,军刀,zh-CN
-Stun Baton,眩晕短棍,zh-CN
-Combat Hatchet,近战手斧,zh-CN
-Stim Pistol,治疗剂手枪,zh-CN
-Bushwhacker,游击兵,zh-CN
-Talon,猛爪,zh-CN
-Crisper,迅击,zh-CN
-Grenade Pistol,榴弹手枪,zh-CN
-Dagger,匕首,zh-CN
-Ultimatum,最后通牒,zh-CN
-Loyalist,忠诚者,zh-CN
-Dynamite,炸药,zh-CN
-Frag,破片手雷,zh-CN
-High Explosive,高爆手雷,zh-CN
-Incendiary,燃烧弹,zh-CN
-Impact,碰炸雷,zh-CN
-Incendiary Impact,碰炸燃烧弹,zh-CN
-Stun,震撼弹,zh-CN
-Gas,毒气雷,zh-CN
-Seeker,寻踪者,zh-CN
-Smoke,烟雾弹,zh-CN
-Thermite,铝热手雷,zh-CN
-Throwing Knife,飞刀,zh-CN
-Pyrotech,礼花,zh-CN
-Urchin,海胆雷,zh-CN
-Arc,电弧雷,zh-CN
-Patriotic Administration Center,爱国行政中心,zh-CN
-Engineering Bay,工程港,zh-CN
-Machine Gun,机枪,zh-CN
-Anti-Materiel Rifle,反器材步枪,zh-CN
-Stalwart,盟友,zh-CN
-Expendable Anti-Tank,消耗性反坦克武器,zh-CN
-Recoilless Rifle,无后坐力炮,zh-CN
-Flamethrower,火焰喷射器,zh-CN
-Autocannon,机炮,zh-CN
-Heavy Machine Gun,重机枪,zh-CN
-Airburst Rocket Launcher,空爆火箭弹发射器,zh-CN
-Commando,突击兵,zh-CN
-Railgun,磁轨炮,zh-CN
-Spear,飞矛,zh-CN
-W.A.S.P. Launcher,W.A.S.P. 发射器,zh-CN
-Grenade Launcher,榴弹发射器,zh-CN
-Laser Cannon,激光大炮,zh-CN
-Arc Thrower,电弧发射器,zh-CN
-Quasar Cannon,类星体加农炮,zh-CN
-Break-Action Shotgun,中折式霰弹枪,zh-CN
-Entrenchment Tool,战壕工具,zh-CN
-Sterilizer,灭菌器,zh-CN
-One True Flag,唯一真旗,zh-CN
-De-Escalator,缓和使者,zh-CN
-Epoch,纪元,zh-CN
-Jump Pack,喷气背包,zh-CN
-Fast Recon Vehicle,快速侦查载具,zh-CN
-HMG Emplacement,重机枪部署支架,zh-CN
-Shield Generator Relay,护盾力场发生器,zh-CN
-Tesla Tower,特斯拉塔,zh-CN
-Grenadier Battlement,掷弹兵防卫墙,zh-CN
-Anti-Personnel Minefield,反步兵雷区,zh-CN
-Supply Pack,补给背包,zh-CN
-Incendiary Mines,燃烧地雷,zh-CN
-"Guard Dog" Rover,“护卫犬”漫游车,zh-CN
-Ballistic Shield Backpack,防弹护盾背包,zh-CN
-Anti-Tank Mines,反坦克地雷,zh-CN
-Shield Generator Pack,护盾力场背包,zh-CN
-Gas Mines,毒气地雷,zh-CN
-Machine Gun Sentry,哨戒机枪,zh-CN
-Gatling Sentry,加特林哨戒炮,zh-CN
-Mortar Sentry,迫击哨戒炮,zh-CN
-"Guard Dog",“护卫犬”,zh-CN
-Autocannon Sentry,哨戒炮,zh-CN
-Rocket Sentry,火箭哨戒炮,zh-CN
-EMS Mortar Sentry,静电场发生器迫击哨戒炮,zh-CN
-Patriot Exosuit,爱国者外骨骼机甲,zh-CN
-Emancipator Exosuit,解放者外骨骼机甲,zh-CN
-"Guard Dog" Dog Breath,“护卫犬”腐息,zh-CN
-Directional Shield,定向护盾,zh-CN
-Anti-Tank Emplacement,反坦克炮台,zh-CN
-Flame Sentry,火焰喷射哨戒炮,zh-CN
-Portable Hellbomb,便携式地狱火炸弹,zh-CN
-Hover Pack,悬浮背包,zh-CN
-"Guard Dog" K-9,“护卫犬”K-9,zh-CN
-Laser Sentry,激光哨戒炮,zh-CN
-Warp Pack,传送背包,zh-CN
-Reinforce,增援,zh-CN
-Reinforcement,增援,zh-CN
-SoS Beacon,S.O.S. 信标,zh-CN
-Resupply,重新补给,zh-CN
-Eagle Rearm,重新武装“飞鹰”,zh-CN
-SSSD Delivery,交付超级固态硬盘,zh-CN
-Prospecting Drill,地质探测仪,zh-CN
-Super Earth Flag,超级地球旗帜,zh-CN
-Seismic Probe,勘探矿机,zh-CN
-Orbital Illumination Flare,轨道照明弹,zh-CN
-Dark Fluid Vessel,暗流体背包,zh-CN
-Tectonic Drill,地壳破裂钻机,zh-CN
-Hive Breaker Drill,“虫窝破裂者”钻机,zh-CN
-Orbital Gatling Barrage,轨道加特林火力网,zh-CN
-Orbital Airburst Strike,轨道空爆攻击,zh-CN
-Orbital 120mm HE Barrage,轨道 120MM 高爆弹火力网,zh-CN
-Orbital 380mm HE Barrage,轨道 380MM 高爆弹火力网,zh-CN
-Orbital Walking Barrage,轨道游走火力网,zh-CN
-Orbital Laser,轨道激光炮,zh-CN
-Orbital Napalm Barrage,轨道凝固汽油弹火力网,zh-CN
-Orbital Railcannon Strike,轨道磁轨炮,zh-CN
-Eagle Strafing Run,“飞鹰”机枪扫射,zh-CN
-Eagle Airstrike,“飞鹰”空袭,zh-CN
-Eagle Cluster Bomb,“飞鹰”集束炸弹,zh-CN
-Eagle Napalm Airstrike,“飞鹰”凝固汽油弹空袭,zh-CN
-Eagle Smoke Strike,“飞鹰”烟幕攻击,zh-CN
-Eagle 110mm Rocket Pods,“飞鹰”110MM 火箭巢,zh-CN
-Eagle 500kg Bomb,“飞鹰”500KG 炸弹,zh-CN
-Orbital Precision Strike,轨道精准攻击,zh-CN
-Orbital Gas Strike,轨道毒气攻击,zh-CN
-Orbital EMS Strike,轨道电磁脉冲攻击,zh-CN
-Orbital Smoke Strike,轨道烟幕攻击,zh-CN
+TD-220 Bastion MK XVI,TD-220 “堡垒” MK XVI,zh-CN
+120mm HV cannon,120mm 高速战车炮,zh-CN
+S-11 Speargun,S-11 矛枪,zh-CN
+EAT-700 Expendable Napalm,EAT-700 消耗性凝固汽油弹,zh-CN
+MS-11 Solo Silo,MS-11 单兵导弹发射井,zh-CN
+M-1000 Maxigun,M-1000 重装机枪,zh-CN
+CQC-9 Defoliation Tool,CQC-9 除叶工具,zh-CN
+AX/FLAM-75 "Guard Dog" Hot Dog,AX/FLAM-75 “护卫犬”热狗,zh-CN
+B/MD C4 Pack,B/MD C4 背包,zh-CN
+Call In Super Destroyer,呼叫超级驱逐舰,zh-CN
+Cargo Container,货运集装箱,zh-CN
+GL-28 Belt-Fed Grenade Launcher,GL-28 弹链式榴弹发射器,zh-CN
+Breaching Hammer,破门锤,zh-CN
+EAT-411 Leveller,EAT-411 荡平者,zh-CN
 Hellpod,绝地喷射舱,zh-CN
 Hellpod Space Optimization,绝地喷射舱空间优化,zh-CN
 Vitality Enhancement,生命强化,zh-CN
@@ -581,4 +466,3 @@ Automaton Mine,机器人地雷,zh-CN
 Acid Storms,酸雨风暴,zh-CN
 Extreme Cold,极寒,zh-CN
 Despotic Explosive,机器人的油桶,zh-CN
-
