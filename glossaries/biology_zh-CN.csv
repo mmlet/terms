@@ -1,0 +1,27 @@
+source,target,tgt_lng
+taxonomic rank,分类层级,zh-CN
+superkingdom,总界,zh-CN
+subkingdom,亚界,zh-CN
+subphylum,亚门,zh-CN
+infraphylum,下门,zh-CN
+superclass,总纲,zh-CN
+subclass,亚纲,zh-CN
+infraclass,下纲,zh-CN
+superorder,总目,zh-CN
+suborder,亚目,zh-CN
+infraorder,下目,zh-CN
+superfamily,总科,zh-CN
+subfamily,亚科,zh-CN
+tribe,族,zh-CN
+subtribe,亚族,zh-CN
+subgenus,亚属,zh-CN
+subspecies,亚种,zh-CN
+type species,模式种,zh-CN
+type genus,模式属,zh-CN
+kingdom,界,zh-CN
+phylum,门,zh-CN
+class,纲,zh-CN
+order,目,zh-CN
+family,科,zh-CN
+genus,属,zh-CN
+species,种,zh-CN

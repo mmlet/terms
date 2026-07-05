@@ -1,0 +1,27 @@
+{
+  "id": "biology",
+  "name": "Biology Expert",
+  "description": "Focuses on biological taxonomy ranks (Kingdom, Phylum, Class, Order, etc.) and core biological terms.",
+  "author": "mmlet",
+  "glossary": "biology",
+  "langs": [
+    "zh-CN"
+  ],
+  "matches": [
+    "*://*.wikipedia.org/*",
+    "*://*.wikidata.org/*",
+    "*://*.ncbi.nlm.nih.gov/*",
+    "*://*.nature.com/*",
+    "*://*.science.org/*",
+    "*://*.cell.com/*",
+    "*://*.gbif.org/*",
+    "*://*.biodiversitylibrary.org/*",
+    "*://*.iucnredlist.org/*"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "生物学",
+      "description": "提供权威的生物分类学层级（界门纲目科属种）及常用生物学术语的英汉对照，纠正机器翻译的日常词汇混淆,且限制在特定网页,不误伤。"
+    }
+  }
+}
