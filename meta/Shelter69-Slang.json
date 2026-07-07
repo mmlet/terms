@@ -1,0 +1,20 @@
+{
+  "id": "Shelter69-Slang",
+  "name": "Shelter69 Slang",
+  "description": "《Shelter69》DC slang",
+  "matches": [
+    "*://discord.com/channels/383578224774479874/*",
+    "*://discord.com/channels/383578224774479874",
+    "*://wiki.jntgames.com/games/Shelter_69",
+    "*://wiki.jntgames.com/games/Shelter_69/*"
+  ],
+  "author": "MaMihLaPiNaTaPaI0",
+  "glossary": "Shelter69-Slang",
+  "langs": ["zh-CN"],
+  "i18ns": {
+    "zh-CN": {
+      "name": "《Shelter69》DC黑话等",
+      "description": "玩家自定义黑话等"
+    }
+  }
+}
